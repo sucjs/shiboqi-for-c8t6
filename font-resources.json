@@ -1,0 +1,24 @@
+{
+  "source": "https://ledfont.botelvdong.com/agent-api.md",
+  "license_note": "服务响应不含字体授权; 第三方字体不在本工程授权范围内。",
+  "fonts": [
+    {
+      "array_name": "kk_font_num24",
+      "size": 24,
+      "font": "WenQuanDengKuanWeiMiHei",
+      "characters": "0123456789.-+",
+      "glyph_count": 13,
+      "byte_count": 364,
+      "role": "三相数值页焦点值 / 单路 Vpp"
+    },
+    {
+      "array_name": "kk_font_small12",
+      "size": 12,
+      "font": "WenQuanDengKuanWeiMiHei",
+      "characters": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789 .-+%:/()?!*<>[]",
+      "glyph_count": 78,
+      "byte_count": 1044,
+      "role": "状态行/标签/单位/通道名(全 ASCII)"
+    }
+  ]
+}
